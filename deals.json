@@ -1,0 +1,87 @@
+{
+  "site": "RawEdge Deals",
+  "updated": "2026-11-17",
+  "notice": "This page lists casinos RawEdge is affiliated with. Listing order is not a ranking, rating or endorsement. We do not print bonus amounts we have not verified \u2014 the casino's own page shows the current offer after you click through.",
+  "casinos": [
+    {
+      "name": "Luck Party",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes",
+        "Redeemable prizes"
+      ],
+      "url": "https://track.luckparty.com/click?o=8&a=102439&c=57"
+    },
+    {
+      "name": "American Luck",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes",
+        "Offers"
+      ],
+      "url": "https://track.americanluck.com/click?o=7&a=102439&c=50"
+    },
+    {
+      "name": "Yay Casino",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes",
+        "Offers"
+      ],
+      "url": "https://track.yaycasino.fun/click?o=5&a=102439&c=28"
+    },
+    {
+      "name": "Zula Casino",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes"
+      ],
+      "url": "https://track.zulacasino.fun/click?o=3&a=102439&c=17"
+    },
+    {
+      "name": "Sportzino",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes",
+        "Sports-style games"
+      ],
+      "url": "https://track.sportzino.fun/click?o=2&a=102439&c=18"
+    },
+    {
+      "name": "Fortune Coins",
+      "category": "Sweepstakes",
+      "tags": [
+        "Sweepstakes"
+      ],
+      "url": "https://track.fortunecoins.fun/click?o=1&a=102439&c=16"
+    },
+    {
+      "name": "BetOnline",
+      "category": "Casino & Sportsbook",
+      "tags": [
+        "Casino",
+        "Sportsbook"
+      ],
+      "url": "https://record.betonlineaffiliates.ag/_U0BzdTjMAZX-a8CTELPmZWNd7ZgqdRLk/1/"
+    },
+    {
+      "name": "Rakebit",
+      "category": "Online Casino",
+      "tags": [
+        "Casino",
+        "Crypto"
+      ],
+      "url": "https://rake-tracker.com/dqai6fv9s"
+    },
+    {
+      "name": "Gamblezen",
+      "category": "Online Casino",
+      "tags": [
+        "Casino",
+        "Crypto"
+      ],
+      "url": "https://gamblezens.com/afxfhfnxmg"
+    }
+  ],
+  "promos": []
+}
